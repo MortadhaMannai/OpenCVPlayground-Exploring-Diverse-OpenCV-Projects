@@ -15,14 +15,16 @@ Each project is designed to showcase various aspects of OpenCV, including image 
 
 Here's a glimpse of what you'll find in this repository:
 
-1. **Project Name**: Body_Detection
-2. **Project Name**: Face_Eye_Detection
-3. **Project Name**: Hand_Written_digits_recognition
-4. **Project Name**: Object_Tracking
-5. **Project Name**: Road_Line_Detection
-6. **Project Name**: Screen_Recording
-7. **Project Name**: Take_Screenshot
-8. **Project Name**: Turn_Your_PC_To_A_Security_Cam
+1. **Project Name**: Body_Detection ( the Body Detection project is an example of computer vision and object detection using the OpenCV library. This project focuses on identifying and locating human bodies within images or video streams. It is a fundamental task in the field of computer vision with applications ranging from surveillance and security to augmented reality.)
+
+   
+4. **Project Name**: Face_Eye_Detection
+5. **Project Name**: Hand_Written_digits_recognition
+6. **Project Name**: Object_Tracking
+7. **Project Name**: Road_Line_Detection
+8. **Project Name**: Screen_Recording
+9. **Project Name**: Take_Screenshot
+10. **Project Name**: Turn_Your_PC_To_A_Security_Cam
 
 ...
 
