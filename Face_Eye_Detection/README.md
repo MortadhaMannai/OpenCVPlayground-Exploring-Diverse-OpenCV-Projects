@@ -10,5 +10,3 @@ This is basically an implementation of a Face and Eye Detection using Opencv Def
     ```bash
       pip install opencv-python
     ```
-#### Results : (I look Ugly :disappointed: )
-  ![alt text](https://github.com/moadmmh/Python-Heaven/blob/master/Face_Eye_Detection/Results.PNG)
