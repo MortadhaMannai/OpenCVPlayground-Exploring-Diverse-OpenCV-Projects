@@ -19,7 +19,8 @@ Here's a glimpse of what you'll find in this repository:
  
 2. **Project Name**: Face_Eye_Detection (Face and eye detection is a common computer vision task that involves identifying and locating human faces and eyes within images or video streams. It is a popular application of OpenCV, a powerful computer vision library in Python. Here's an overview of how to perform face and eye detection using OpenCV)
    
-3. **Project Name**: Hand_Written_digits_recognition
+3. **Project Name**: Hand_Written_digits_recognition (Handwritten digits recognition is the process of using computer algorithms and machine learning techniques to identify and classify handwritten numerical digits. This is a common task in the field of computer vision and machine learning, and it has various practical applications, such as digitizing handwritten documents, automating postal code recognition, and enabling the use of handwritten digits as input for various applications, including digit recognition for authentication purposes.)
+
 4. **Project Name**: Object_Tracking
 5. **Project Name**: Road_Line_Detection
 6. **Project Name**: Screen_Recording
