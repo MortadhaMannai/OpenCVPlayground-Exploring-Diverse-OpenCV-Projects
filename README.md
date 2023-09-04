@@ -21,7 +21,8 @@ Here's a glimpse of what you'll find in this repository:
    
 3. **Project Name**: Hand_Written_digits_recognition (Handwritten digits recognition is the process of using computer algorithms and machine learning techniques to identify and classify handwritten numerical digits. This is a common task in the field of computer vision and machine learning, and it has various practical applications, such as digitizing handwritten documents, automating postal code recognition, and enabling the use of handwritten digits as input for various applications, including digit recognition for authentication purposes.)
 
-4. **Project Name**: Object_Tracking
+4. **Project Name**: Object_Tracking (Object tracking is a computer vision and image processing technique used to locate and follow objects within a sequence of images or video frames. It plays a crucial role in various applications, including surveillance, robotics, self-driving cars, and augmented reality. The goal of object tracking is to continuously identify and monitor the movement of a particular object as it changes position, size, and orientation over time.)
+
 5. **Project Name**: Road_Line_Detection
 6. **Project Name**: Screen_Recording
 7. **Project Name**: Take_Screenshot
