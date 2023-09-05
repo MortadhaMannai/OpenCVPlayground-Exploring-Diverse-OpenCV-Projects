@@ -25,7 +25,8 @@ Here's a glimpse of what you'll find in this repository:
 
 5. **Project Name**: Road_Line_Detection (Road line detection is a crucial task in computer vision and autonomous driving systems. It involves identifying and tracking the road lane markings, such as lane lines, lane dividers, or edges of the road, in real-time from images or video streams. This information is essential for various applications, including lane-keeping assistance, lane departure warning systems, and autonomous navigation.)
 
-6. **Project Name**: Screen_Recording
+6. **Project Name**: Screen_Recording (Screen recording using OpenCV typically involves capturing the contents of your computer screen or a specific region of it and saving it as a video file.)
+
 7. **Project Name**: Take_Screenshot
 8. **Project Name**: Turn_Your_PC_To_A_Security_Cam
 
