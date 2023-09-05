@@ -23,7 +23,8 @@ Here's a glimpse of what you'll find in this repository:
 
 4. **Project Name**: Object_Tracking (Object tracking is a computer vision and image processing technique used to locate and follow objects within a sequence of images or video frames. It plays a crucial role in various applications, including surveillance, robotics, self-driving cars, and augmented reality. The goal of object tracking is to continuously identify and monitor the movement of a particular object as it changes position, size, and orientation over time.)
 
-5. **Project Name**: Road_Line_Detection
+5. **Project Name**: Road_Line_Detection (Road line detection is a crucial task in computer vision and autonomous driving systems. It involves identifying and tracking the road lane markings, such as lane lines, lane dividers, or edges of the road, in real-time from images or video streams. This information is essential for various applications, including lane-keeping assistance, lane departure warning systems, and autonomous navigation.)
+
 6. **Project Name**: Screen_Recording
 7. **Project Name**: Take_Screenshot
 8. **Project Name**: Turn_Your_PC_To_A_Security_Cam
