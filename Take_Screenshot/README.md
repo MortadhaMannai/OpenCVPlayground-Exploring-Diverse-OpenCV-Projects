@@ -15,6 +15,4 @@ A simple implementation on how to take screenshots .
     ```bash
       pip3 install pyautogui --user
     ```
-  #### Results :
-    
-   ![alt text](https://github.com/moadmmh/Awesome-OpenCV/blob/master/Take_Screenshot/test.png)
+  
