@@ -29,7 +29,7 @@ Here's a glimpse of what you'll find in this repository:
 
 7. **Project Name**: Take_Screenshot ( reating a project to take a screenshot using OpenCV in Python can be a fun and useful exercise. In this project, you'll use OpenCV, a popular computer vision library, to capture the screen and save it as an image file)
 
-8. **Project Name**: Turn_Your_PC_To_A_Security_Cam
+8. **Project Name**: Turn_Your_PC_To_A_Security_Cam (Converting your PC into a security camera using OpenCV is a practical and educational project. OpenCV is a powerful computer vision library that allows you to access and process video streams from a webcam or external camera)
 
 ...
 
