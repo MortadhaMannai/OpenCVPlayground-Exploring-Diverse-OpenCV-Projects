@@ -27,7 +27,8 @@ Here's a glimpse of what you'll find in this repository:
 
 6. **Project Name**: Screen_Recording (Screen recording using OpenCV typically involves capturing the contents of your computer screen or a specific region of it and saving it as a video file.)
 
-7. **Project Name**: Take_Screenshot
+7. **Project Name**: Take_Screenshot ( reating a project to take a screenshot using OpenCV in Python can be a fun and useful exercise. In this project, you'll use OpenCV, a popular computer vision library, to capture the screen and save it as an image file)
+
 8. **Project Name**: Turn_Your_PC_To_A_Security_Cam
 
 ...
